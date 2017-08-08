@@ -7,7 +7,7 @@ $ip = shell_exec('hostname -I');
 
 
 echo "<center>";
-echo "<h1>hello world</h1>";
+echo "<h1>hello world!</h1>";
 echo "ip: $ip <br>";
 echo "uptime: $uptime <br>";
 echo "temp: ";

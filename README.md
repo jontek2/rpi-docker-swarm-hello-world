@@ -8,4 +8,4 @@ The Docker Image utilizes https://github.com/sergeytykhonov/rpi-php for an ARM w
 
 # Docker
 
-See more at https://github.com/jontek2/rpi-docker-swarm-hello-world
+See more at and pull the image at https://hub.docker.com/r/jontek2/rpi-docker-swarm-hello-world/

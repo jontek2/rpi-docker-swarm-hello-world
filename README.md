@@ -1,6 +1,8 @@
 # What
 
-This is a simple POF-webserver for a Raspberry Pi Cluster running Docker Swarm. This included code (/code) will return a simple "hello world"-page with info from each workers in the swarm.
+This is a simple POF-webserver for a Raspberry Pi Cluster running Docker Swarm. This included code (/code) will return a simple "hello world"-page with info from each workers in the swarm:
+
+![Image of output](http://www.jonathanhellman.se/wp-content/uploads/2017/08/hello-world.png)
 
 # Librarys
 
